@@ -1,1 +1,2 @@
-Snake-Game-in-C
+MiniProject_Ritesh
+
