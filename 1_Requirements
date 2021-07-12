@@ -1,1 +1,16 @@
-## Heading 2
+# INTRODUCTION
+ Let me introduce you to the game if you are new to itWe all have played the vintage snake game in our devices in our childhood. Accept it, the game may
+ be basic but it was quite addicting and we all used to get so engrossed and played it to increase the tail until we hit our head with it and BOOM game over
+ If you have ever wondered how this game can be built then here is small support that I could provide.
+
+# RESEARCH
+There is a snakehead, a snake tail, and a fruit in the game. You can move your snake up, down,left as well as right. And, as you swallow the fruit the
+tail size increases. If you collide with the tail or cross the bounds of the wall then the game is over. 
+
+# FEATURES
+This snake game is just similar to games which are found under mobile games section. It uses the concept of graphics to display the menu items and all objects
+on a single screen.  An instruction has been given on the top right side of the menu where users must go through the instruction to play this game.
+ 
+# 
+
+
