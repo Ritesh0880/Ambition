@@ -1,7 +1,5 @@
 # MiniProject_Ritesh
 
-## Introdution
-
  
 
 
