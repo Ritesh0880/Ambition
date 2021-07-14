@@ -10,6 +10,39 @@ tail size increases. If you collide with the tail or cross the bounds of the wal
 # FEATURES
 This snake game is just similar to games which are found under mobile games section. It uses the concept of graphics to display the menu items and all objects
 on a single screen.  An instruction has been given on the top right side of the menu where users must go through the instruction to play this game.
+
+# Cost
+The cost of the game depends on the requirements of players. It can be modelled as a 3D game which requires heavy software tools, we can add music, we can make it an online
+game which requires database, or it can be as simple as entering from keypad of an old model mobile phone.As I am planning to design a simple game with a very basic user .
+interface (UI), the cost required is zero if a computer is available.
+
+# 4W's and 1H
+# Who:
+This a single player game.
+
+# What:
+This game is simple snake game where the snake has to grab the fruit and increase score and not die while doing it, Snake dies if it touches any walls
+
+# When:
+This game ends when snake hits the wall. So this can be played when you're bored and want to pass time.
+
+# How:
+Use W,A,S,D keys to navigate and X to quit the game.
+
+# SWOT ANALYSIS
+Strengths
+Engaging and fun game.
+
+Opportunities
+Popular among all ages
+
+Weaknesses
+.Gets boring after a while. .Not multiplayer
+
+# Threats
+No new features can be introduced. Very old game not able to cope up in the era of online high end gaming.
+
+
  
  
 
