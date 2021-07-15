@@ -1,5 +1,7 @@
 ## Snake Game
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/69ede3eb970c4903bbf6bf4e07c65940)](https://app.codacy.com/gh/Ritesh0880/Ambition?utm_source=github.com&utm_medium=referral&utm_content=Ritesh0880/Ambition&utm_campaign=Badge_Grade_Settings)
+
  1.Entertaining snake game that we used to play on the old nokia phones.
  
  2.Simple motive of the game is to get a high score with not killing the snake as long as possible.
